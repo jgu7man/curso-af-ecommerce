@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "e-commerce-af": {
+      "hosting": {
+        "e-commerce": [
+          "e-commerce-af"
+        ]
+      }
+    }
+  }
+}
